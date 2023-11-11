@@ -1,0 +1,3 @@
+/Users/brendonuzoigwe/CLionProjects/BSTLibrary/cmake-build-debug/CMakeFiles/BST_23F.dir
+/Users/brendonuzoigwe/CLionProjects/BSTLibrary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/brendonuzoigwe/CLionProjects/BSTLibrary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

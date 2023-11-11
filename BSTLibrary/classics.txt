@@ -1,0 +1,60 @@
+9780708982280|Pride and Prejudice|Austen, Jane|Charnwood|1984|4.26|
+9780060935467|To Kill a Mockingbird|Lee, Harper|Harper Perennial Modern Classics|2005|4.27|
+9780060888695|To Kill a Mockingbird|Lee, Harper|Caedmon|2006|4.27|
+9780061205699|To Kill a Mockingbird|Lee, Harper|Harper|2006|4.27|
+9780679783381|The Scarlet Letter|Hawthorne, Nathaniel|Modern Library|2000|3.40|
+9780140620627|Moby Dick|Melville, Herman|Penguin Books/Penguin Popular Classics|1994|3.50|
+9783895086908|War and Peace|Tolstoy, Leo|Konemann|1999|4.11|
+9780684801520|The Great Gatsby|Fitzgerald, F. Scott|Scribner|1995|3.91|
+9780393970128|Dracula|Stoker, Bram|Norton|1986|3.99|
+9780140449099|Don Quixote|Saavedra, Miguel de Cervantes|Penguin Books|2003|3.87|
+9780192839657|Jane Eyre|Brontë, Charlotte|Oxford University Press|2001|4.12|
+9780486406541|The Odyssey|Homer|Dover Publications|1998|3.76|
+9780140620122|Wuthering Heights|Bronte, Emily|Penguin Books|2007|3.85|
+9780141187068|The Call of Cthulhu and Other Weird Stories|Lovecraft, H.P.|Penguin Books|2002|4.22|
+9780316769174|The Catcher in the Rye|Salinger, J.D.|Back Bay Books|2001|3.80|
+9780435124090|The Handmaid's Tale|Atwood, Margaret|Heinemann Library|2009|4.11|
+9780451516756|1984|Orwell, George|Signet Classics|1981|4.18|
+9780744586534|Dracula|Stoker, Bram|Walker Books Ltd|2004|3.99|
+9780143039433|The Grapes of Wrath|Steinbeck, John|Penguin Classics|2006|3.96|
+9780743487566|The Scarlet Letter|Hawthorne, Nathaniel|Simon & Schuster|2004|3.40|
+9780140366815|Great Expectations|Dickens, Charles|Puffin Books|1995|3.77|
+9780393962925|Oliver Twist|Dickens, Charles|W.W. Norton & Company|1992|3.86|
+9780142437261|The Scarlet Letter|Hawthorne, Nathaniel|Penguin Books|2003|3.40|
+9780140620184|The Great Gatsby|Fitzgerald, F. Scott|Penguin Books|1994|3.91|
+9780060929879|Brave New World|Huxley, Aldous|HarperPerennial / Perennial Classics|1998|3.99|
+9781599869506|Heart of Darkness|Conrad, Joseph|Filiquarian Publishing  LLC.|2006|3.42|
+9780451530066|Crime and Punishment|Dostoyevsky, Fyodor|Signet|2006|4.21|
+9780140449266|The Count of Monte Cristo|Dumas, Alexandre|Penguin Classics|2003|4.25|
+9780691096124|Walden|Thoreau, Henry David|Princeton University Press|2004|3.79|
+9780060098919|The Great Gatsby|Fitzgerald, F. Scott|Caedmon|2002|3.91|
+9780393964585|Frankenstein|Shelley, Mary Wollstonecraft|W. W. Norton & Company|1995|3.79|
+9781419542244|Frankenstein|Shelley, Mary Wollstonecraft|Kaplan|2006|3.79|
+9780140620634|Dracula|Stoker, Bram|Penguin Books|1994|3.99|
+9780743477369|Dracula|Stoker, Bram|Pocket Books|2003|3.99|
+9780375751516|The Picture of Dorian Gray|Wilde, Oscar|Random House: Modern Library|2004|4.08|
+9780060934347|Don Quixote|Saavedra, Miguel de Cervantes|Ecco|2005|3.87|
+9780321399533|Frankenstein|Shelley, Mary Wollstonecraft|Pearson|2006|3.79|
+9780451208637|The Divine Comedy|Alighieri, Dante|NAL|2003|4.07|
+9780345483577|Inferno|Alighieri, Dante|Modern Library|2005|4.00|
+9780486424538|Oliver Twist|Dickens, Charles|Dover Publications|2002|3.86|
+9780785814535|Complete Tales and Poems|Poe, Edgar Allan|Castle Books|2009|4.38|
+9780471377580|The Iliad|Homer|John Wiley & Sons|1999|3.86|
+9780451528643|The Adventures of Tom Sawyer and Adventures of Huckleberry Finn|Twain, Mark|Signet Classics|2002|4.08|
+9780143035008|Anna Karenina|Tolstoy, Leo|Penguin Classics|2004|4.05|
+9780192833600|The Canterbury Tales|Chaucer, Geoffrey|Oxford University Press|1998|3.49|
+9781593083328|A Tale of Two Cities|Dickens, Charles|Barnes  Noble Classics|2004|3.84|
+9781587263835|The Scarlet Letter|Hawthorne, Nathaniel|Ann Arbor Media|2006|3.40|
+9781419172694|The Metamorphosis|Kafka, Franz|Kessinger Publishing|2004|3.81|
+9781892295491|Heart of Darkness|Conrad, Joseph|Green Integer|2003|3.42|
+9780394700021|The Stranger|Camus, Albert|Vintage|1954|3.98|
+9780307264602|The Handmaid's Tale|Atwood, Margaret|Everyman's Library|2006|4.11|
+9781593080235|Middlemarch|Eliot, George|Barnes  Noble Classics|2003|3.96|
+9780451527882|The Hunchback of Notre-Dame|Hugo, Victor|Signet Classics|2001|4.00|
+9780156030472|To the Lighthouse|Woolf, Virginia|Mariner Books|2005|3.78|
+9780151009985|Mrs. Dalloway|Woolf, Virginia|Houghton Mifflin Harcourt|2002|3.79|
+9780192802385|Pride and Prejudice|Austen, Jane|Oxford University Press|2004|4.26|
+9780143036234|Pride & Prejudice|Austen, Jane|Penguin Books|2005|4.26|
+9780486440910|Pride and Prejudice|Austen, Jane|Dover Publications|2005|4.26|
+9780345472427|The Hunchback of Notre-Dame|Hugo, Victor|Modern Library|2004|4.00|
+9780771008740|The Handmaid's Tale|Atwood, Margaret|McClelland & Stewart|2006|4.11|

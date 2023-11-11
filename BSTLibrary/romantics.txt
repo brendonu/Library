@@ -1,0 +1,14 @@
+9780486440910|Pride and Prejudice|Austen, Jane|Dover Publications|2005|4.26|
+9780192839657|Jane Eyre|Bronte, Charlotte|Oxford University Press|2001|4.12|
+9780140620122|Wuthering Heights|Bronte, Emily|Penguin Books|2007|3.85|
+9780679735908|Possession|Byatt, A.S.|Vintage|1991|3.89|
+9780552995870|Like Water for Chocolate|Esquivel, Laura|Black Swan|1993|3.95|
+9780440242949|Outlander (Outlander  #1)|Gabaldon, Diana|Dell Publishing Company|2005|4.23|
+9780345418265|The Princess Bride|Goldman, William|Ballantine Books|2003|4.26|
+9780060837556|The Thorn Birds|McCullough, Colleen|Avon Books|2005|4.23|
+9780446675536|Gone with the Wind|Mitchell, Margaret|Warner Books|1999|4.29|
+9781596921535|The Time Traveler's Wife|Niffenegger, Audrey|MacAdam/Cage|2005|3.97|
+9780521618700|Romeo and Juliet|Shakespeare, William|Cambridge University Press|2005|3.74|
+9780446693806|A Walk to Remember|Sparks, Nicholas|Grand Central Publishing|2004|4.17|
+9780553816716|The Notebook (The Notebook  #1)|Sparks, Nicholas|Bantam|2004|4.09|
+9780142000274|Anna Karenina|Tolstoy, Leo|Penguin Books|2001|4.05|
